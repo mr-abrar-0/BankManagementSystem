@@ -21,6 +21,7 @@ Concepts Used
 Technologies
 
 * Java
+* Database
 
 Purpose
 
